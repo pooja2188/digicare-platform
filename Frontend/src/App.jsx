@@ -1,17 +1,17 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import HomePage from "./components/HomePage";
-import PatientProfile from './components/PatientProfile';
-import DoctorProfile from './components/DoctorProfile';
+import HomePage from "./components/HomePage.jsx";
+import PatientProfile from './components/PatientProfile.jsx';
+import DoctorProfile from './components/DoctorProfile.jsx';
 import { useEffect, useState } from "react";
 
 import FileUpload from "./components/FileUpload.jsx";
-import AIAssistant from "./components/AiAssistant";
-import Explore from "./components/Explore";
-import AboutUsSection from "./components/AboutUs";
-import Footer from "./components/Footer";
+import AIAssistant from "./components/AIAssistant.jsx";
+import Explore from "./components/Explore.jsx";
+import AboutUsSection from "./components/AboutUs.jsx";
+import Footer from "./components/Footer.jsx";
 import FAQ from "./components/FAQ.jsx";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar.jsx";
 //import DoctorDashboard from "./components/DoctorDashboard";
 import Dashboard from "./components/Dashboard";
 //import PatientDashboard from "./components/PatientDashboard";
