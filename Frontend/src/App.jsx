@@ -10,7 +10,7 @@ import AIAssistant from "./components/AiAssistant";
 import Explore from "./components/Explore";
 import AboutUsSection from "./components/AboutUs";
 import Footer from "./components/Footer";
-import FAQ from "./components/Faq.jsx";
+import FAQ from "./components/FAQ.jsx";
 import Navbar from "./components/Navbar";
 //import DoctorDashboard from "./components/DoctorDashboard";
 import Dashboard from "./components/Dashboard";
