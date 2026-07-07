@@ -44,6 +44,7 @@ app.use(
     origin: [
       "http://localhost:5173",  
       "http://localhost:5174",
+      "http://localhost:8000",
       "https://digi-care-hack-mol6-0.vercel.app",
       "https://digicare-hackmol6-0-1.onrender.com",
       "https://digi-care.vercel.app"
