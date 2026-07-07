@@ -13,7 +13,7 @@ import Footer from "./components/Footer.jsx";
 import FAQ from "./components/FAQ.jsx";
 import Navbar from "./components/Navbar.jsx";
 //import DoctorDashboard from "./components/DoctorDashboard";
-import Dashboard from "./components/Dashboard";
+import Dashboard from "./components/Dashboard.jsx";
 //import PatientDashboard from "./components/PatientDashboard";
 import PatientRegistration from "./components/PatientRegistration.jsx";
 import DoctorRegistration from "./components/DoctorRegistration.jsx";
@@ -22,7 +22,7 @@ import DoctorRegistration from "./components/DoctorRegistration.jsx";
 import AddPatient from "./components/AddPatient.jsx"
 import Register from "./components/Register.jsx";
 import Login from "./components/Login.jsx";
-import UserProfile from "./components/UserProfile";
+import UserProfile from "./components/UserProfile.jsx";
 import UserGuidedFlow from "./components/UserGuidedFlow.jsx";   
 import Description from "./components/Description.jsx";
 
